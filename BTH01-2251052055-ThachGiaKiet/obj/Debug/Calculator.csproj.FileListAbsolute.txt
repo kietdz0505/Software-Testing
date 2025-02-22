@@ -1,1 +1,2 @@
 D:\BTH01-2251052055-ThachGiaKiet\BTH01-2251052055-ThachGiaKiet\bin\Debug\BTH01-2251052055-ThachGiaKiet.exe.config
+D:\Demo_Github\Software-Testing\BTH01-2251052055-ThachGiaKiet\bin\Debug\BTH01-2251052055-ThachGiaKiet.exe.config
