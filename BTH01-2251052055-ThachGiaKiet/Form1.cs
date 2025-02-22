@@ -16,5 +16,10 @@ namespace BTH01_2251052055_ThachGiaKiet
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Meomeo");
+        }
     }
 }
